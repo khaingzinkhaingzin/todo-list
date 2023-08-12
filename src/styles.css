@@ -1,0 +1,46 @@
+body {
+    background: #5ECBFA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.app {
+    width: 50%;
+    background: #e7f0f2;
+    margin: 30px auto 0;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 22px;
+}
+
+.input-form {
+    display: flex;
+    margin-top: 25px;
+}
+
+.input-form > input {
+    width: 80%;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+.input-form > button {
+    width: 20%;
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 0 20px;
+    background: #81FF5B;
+}
+
+.list ul {
+    margin-left: -10px;
+}
+
+.list li {
+    padding: 5px 0;
+}
